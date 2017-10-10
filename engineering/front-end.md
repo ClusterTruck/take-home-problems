@@ -1,7 +1,7 @@
 # ClusterProblem - Front End
 The following is a test designed to ensure you have a fundamental understanding of building applications. The point of this problem is to qualify your skills and open a conversation during the in person interview.
 						
-Please write the code in whatever environment you are comfortable in. Please provide a link to your github/gitlab repo as well as a link to the hosted version of your app.
+Please write the code in whatever environment you are comfortable in. Please provide a link to your github/gitlab repo as well as a link to the hosted version of your app to engineering@clustertruck.com.
 
 ## Application Requirements
 
